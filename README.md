@@ -2,10 +2,15 @@
 
 ### Key Findings:
 Delay Rates and Total Orders for Each Vendor:
+
 Adam's Collection: 74.1%, 27 Total Orders
+
 Bob's B-21's: 85%, 20 Total Orders
+
 John's Products: 63.6%, 22 Total Orders
+
 Sam's Storage: 73.7%, 19 Total Orders
+
 Tim's Inc: 83.3%, 12 Total Orders (sample size this small is not reliable to analyze delay rates)
 
 
