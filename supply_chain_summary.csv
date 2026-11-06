@@ -1,0 +1,6 @@
+vendor,location,total_orders,delayed_orders,delay_rate
+Adam's Collection,"Milwaukee, WI",27,20,0.7407407407407407
+Bob's Burgers,"Indianapolis, IN",20,17,0.85
+John's Products,"Chicago, IL",22,14,0.6363636363636364
+Sam's Storage,"Detroit, MI",19,14,0.7368421052631579
+Tim's Inc,"St. Louis, MO",12,10,0.8333333333333334
