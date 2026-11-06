@@ -18,7 +18,7 @@ Tim's Inc: 83.3%, 12 Total Orders (sample size this small is not reliable to ana
 
 In this project, I am a Supply Chain Analyst at Boeing, based in Kankakee, Illinois (This is a fictional Boeing site and scenario with fully synthetic data; no real Boeing data was used). I am pulling a dataset full of vendor order information, and I am trying to find the vendors that have the highest amount of “delayed” order rates. The parameters of a delayed order were set in my Python code, and they are as follows: Estimated Delivery Days: 7 to 14 days. I created an “Actual Delivery Days” to create some randomization when it came to the delivery’s arrival times, and I made that range 7 to 21 days, here were the results. 
 
-![Tableau Supply Data](Tableau%20Supply%20Chain%20Data%20Snip.PNG)
+![Tableau Supply Data](Boeing%20Vendor%20Delay%20Rate%20Table.PNG)
 
 ### Coding Methodology:
 
@@ -35,7 +35,7 @@ Disclaimer: the other vendors all have high delay rates because this is a synthe
 ### Delay Rate and Map Visualizations
 
 I uploaded the CSV with my order data into Tableau to create two simple visualizations: a bar graph, and a geographical map: 
-![Vendor Map](Vendor%20Map.PNG)
+![Vendor Map](Boeing%20Vendor%20Map.PNG)
 
 It’s not the prettiest thing, but it allows me to compare the vendor delay rate and their respective location to our Boeing site in Kankakee. 
 
