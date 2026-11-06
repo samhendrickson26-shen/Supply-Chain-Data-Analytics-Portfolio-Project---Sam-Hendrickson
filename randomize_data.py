@@ -10,7 +10,7 @@ cursor = conn.cursor()
 # Define your vendors with IDs and locations
 vendors_df = pd.DataFrame({
     'vendor_id': [1, 2, 3, 4, 5],
-    'vendor_name': ["John's Products", "Tim's Inc", "Bob's Burgers", "Adam's Collection", "Sam's Storage"],
+    'vendor_name': ["John's Products", "Tim's Inc", "Bob's B-21's", "Adam's Collection", "Sam's Storage"],
     'location': ['Chicago, IL', 'St. Louis, MO', 'Indianapolis, IN', 'Milwaukee, WI', 'Detroit, MI']
 })
 
